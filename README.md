@@ -14,3 +14,8 @@ Hi! I'm learning how to use GitHub and Git.
 - Learn version control
 - Build my first programming portfolio
   
+## What I Learned
+- Created my first repository
+- Edited a README file
+- Made my first commit
+- Learned how to inspect commit history
